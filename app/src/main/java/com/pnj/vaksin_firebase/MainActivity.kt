@@ -22,7 +22,6 @@ import com.google.firebase.storage.ktx.storage
 import com.pnj.vaksin_firebase.auth.SettingsActivity
 import com.pnj.vaksin_firebase.chat.ChatActivity
 import com.pnj.vaksin_firebase.databinding.ActivityMainBinding
-import com.pnj.vaksin_firebase.pasien.AddPasienActivity
 import com.pnj.vaksin_firebase.pasien.AddPasienActivity1
 import com.pnj.vaksin_firebase.pasien.Pasien
 import com.pnj.vaksin_firebase.pasien.PasienAdapter

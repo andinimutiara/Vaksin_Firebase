@@ -12,7 +12,6 @@ import com.google.firebase.firestore.FirebaseFirestore
 import com.google.firebase.storage.FirebaseStorage
 import com.pnj.vaksin_firebase.MainActivity
 import com.pnj.vaksin_firebase.databinding.ActivityAddPasien1Binding
-import com.pnj.vaksin_firebase.databinding.ActivityAddPasienBinding
 import java.io.ByteArrayOutputStream
 import java.util.*
 import kotlin.collections.ArrayList
